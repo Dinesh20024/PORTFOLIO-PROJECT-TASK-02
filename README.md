@@ -36,6 +36,8 @@ Performed various CRUD commands on shell.
 ![showdbs2](https://user-images.githubusercontent.com/128464993/227310937-88756966-d3b9-4658-943c-778eed4e22ca.png)
 
 2. Show Collection :
+
+
 ![show collection](https://user-images.githubusercontent.com/128464993/227311124-9199d9a7-1fd2-4e40-b7e7-44e73f74b7c8.png)
 
 3 : used db (collection name).insert one command to insert values to the collection.
